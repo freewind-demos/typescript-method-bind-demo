@@ -1,18 +1,9 @@
-TypeScript Hello World Demo
+TypeScript Method Bind Demo
 ===========================
+
+bind会产生一个新函数，旧的不会变
 
 ```
 npm install
 npm start
 ```
-
-Note:
-
-`esModuleInterop` is recommended to set to `true`,
-since we can have consistent importing syntax with babel,
-always use:
-
-```
-import some from 'some'
-```
-
